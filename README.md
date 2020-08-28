@@ -1,6 +1,6 @@
 # DailyTodo
 
-> 上班摸鱼做的小玩具,一个简单的flutter项目
+> A little toy made during touching fish at work, a simple flutter project
 
 ## Features
 - [x] Show daily todos in calendar mode
@@ -18,15 +18,18 @@ flutter build apk
 
 ## Screenshots
 ![screen_shot1]()
+ Screenshot1 | Screenshot2 | Screenshot3 | Screenshot4
+ -|-|-|-
+ ![sh1](https://github.com/WxxShirley/DailyTodo/blob/master/imgs/screenshot1.png)|![sh2](https://github.com/WxxShirley/DailyTodo/blob/master/imgs/screenshot2.png)|![sh3](https://github.com/WxxShirley/DailyTodo/blob/master/imgs/screenshot3.png)|![sh4](https://github.com/WxxShirley/DailyTodo/blob/master/imgs/screenshot4.png)
 
 
 ## Used Packages
  Name | Version | Usage
  -|-|-
- emoji_picker | 0.1.0 | Pick Emoji
- shared_preferences | 0.5.10 | Store data **locally** ( `(key,value)` mode)
- oktoast | 2.3.2 | Show **customized** toast
- table_calendar | 2.2.3 | Show calendar view, **extendable**
+ **emoji_picker** | 0.1.0 | Pick Emoji
+ **shared_preferences** | 0.5.10 | Store data **locally** ( `(key,value)` mode)
+ **oktoast** | 2.3.2 | Show **customized** toast
+ **table_calendar** | 2.2.3 | Show calendar view, **extendable**
 
 ## Getting Started
 
