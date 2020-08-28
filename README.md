@@ -1,6 +1,6 @@
 # DailyTodo
 
-> A little toy made during touching fish at work, a simple flutter project
+> 上班摸鱼做的小玩具，其中心情贴纸的想法来源于上个月Microsoft Hackthon中同事的Outlook Stickers
 
 ## Features
 - [x] Show daily todos in calendar mode
