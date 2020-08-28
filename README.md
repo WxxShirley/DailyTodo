@@ -1,6 +1,32 @@
-# todo
+# DailyTodo
 
-A new Flutter project.
+> 上班摸鱼做的小玩具,一个简单的flutter项目
+
+## Features
+- [x] Show daily todos in calendar mode
+- [x] Add mood stickers for everyday
+- [x] Store these todos and moods locally
+
+## Run
+```
+// Run locally
+flutter run
+
+// Android package 
+flutter build apk
+```
+
+## Screenshots
+![screen_shot1]()
+
+
+## Used Packages
+ Name | Version | Usage
+ -|-|-
+ emoji_picker | 0.1.0 | Pick Emoji
+ shared_preferences | 0.5.10 | Store data **locally** ( `(key,value)` mode)
+ oktoast | 2.3.2 | Show **customized** toast
+ table_calendar | 2.2.3 | Show calendar view, **extendable**
 
 ## Getting Started
 
