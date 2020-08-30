@@ -6,7 +6,9 @@
 - [x] Show daily todos in calendar mode
 - [x] Add mood stickers for everyday
 - [x] Store these todos and moods locally
-
+- [x] Support right-slide deletion of todo
+ 
+ 
 ## Run
 ```
 // Run locally
